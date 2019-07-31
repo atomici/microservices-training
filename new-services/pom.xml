@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>first-service</module>
-        <module>second-service</module>
+        <module>notif-service</module>
+        <module>submit-service</module>
     </modules>
 </project>
